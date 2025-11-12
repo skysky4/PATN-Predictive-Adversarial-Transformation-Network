@@ -6,13 +6,19 @@ The Appendix serves as supplementary material for the AAAI26 oral paper (Privacy
 The full dataset is available for download from GitHub (MotionSense:https://github.com/mmalekzadeh/motion-sense).
 ## Code:
 Code/train\_our\_model.py: The structure of the model we employ.
+
 Code/train\_PATN.py: Training methods for PATN networks.
+
 Code/test\_PATN.ipynb: Testing PATN's privacy protection capabilities compared to raw data.
+
 Code/test\_HAR.ipynb: Testing the availability of PATN benign tasks.
 
 ## Model:
 We have already trained models.
+
 Model/Gender_model.pth: Gender Privacy Inference Model
+
 Model/HAR_model.pth: Human Activity Recognition Model
+
 Model/PATN_model.pth: Predictive Adversarial Transformation Model
 
